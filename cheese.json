@@ -1,14 +1,76 @@
 [{
-    "varenr": 7734,
-    "navn": "Brians Delight",
-    "pris": 116.99,
-    "type": "Mascarpone",
+    "varenr": 1,
+    "navn": "Danablu",
+    "pris": 19.95,
+    "type": "Blåskimmel",
     "producent": "Arla",
-    "antal": 76,
-    "beskrivelse": {
-        "tekst": "Verdens bedste ost. Så er det sagt.",
-        "smag": "voldstærk",
+    "antal": 99,
+    "andreButikker": ["Føtex", "Bilka", "Netto", "Fakta", "Kvickly"],
+    "beskrivelse":
+    {
+        "tekst": "Pikant krydret og kraftig",
+        "smag": "Kraftig",
         "vægt": 20,
         "billede": "briansdelight.jpg"
     }
+},{
+    "varenr": 2,
+    "navn": "Esrom",
+    "pris": 19.95,
+    "type": "Halvfast Mælkeost",
+    "producent": "Arla",
+    "antal": 99,
+    "andreButikker": ["Føtex", "Bilka", "Netto", "Fakta", "Kvickly"],
+    "beskrivelse":
+    {
+        "tekst": "Mild og karakteristisk smag",
+        "smag": "Mild",
+        "vægt": 20,
+        "billede": "briansdelight.jpg"
+    }
+    },{
+        "varenr": 3,
+        "navn": "Havarti",
+        "pris": 19.95,
+        "type": "Halvfast Mælkeost",
+        "producent": "Arla",
+        "antal": 99,
+        "andreButikker": ["Føtex", "Bilka", "Netto", "Fakta", "Kvickly"],
+        "beskrivelse":
+        {
+            "tekst": "Mild og karakteristisk smag",
+            "smag": "Mild",
+            "vægt": 20,
+            "billede": "briansdelight.jpg"
+        }
+        },{
+            "varenr": 4,
+            "navn": "Rygeost",
+            "pris": 19.95,
+            "type": "Blød smørbar ost",
+            "producent": "Arla",
+            "antal": 99,
+            "andreButikker": ["Føtex", "Bilka", "Netto", "Fakta", "Kvickly"],
+            "beskrivelse":
+            {
+                "tekst": "Blød smørbar ost",
+                "smag": "Røget",
+                "vægt": 20,
+                "billede": "briansdelight.jpg"
+            }
+            },{
+                "varenr": 5,
+                "navn": "Brieost",
+                "pris": 19.95,
+                "type": "Hvidskimmel ost",
+                "producent": "Arla",
+                "antal": 99,
+                "andreButikker": ["Føtex", "Bilka", "Netto", "Fakta", "Kvickly"],
+                "beskrivelse":
+                {
+                    "tekst": "Mellemstærk og karakteristisk hvidskimmel-smag",
+                    "smag": "Mellemstærk",
+                    "vægt": 20,
+                    "billede": "briansdelight.jpg"
+                }
 }]
