@@ -1,0 +1,25 @@
+[{
+    "navn": {
+        "fornavn": "Brian",
+        "efternavn": "Emilius"
+    },
+    "beskrivelse": {
+        "højde": 172,
+        "skostørrelse": 43,
+        "godmode": true,
+        "øjenfarve": "grønlysehvid"
+    },
+    "kontakt": {
+        "email": "be@rts.dk",
+        "github": "BrianEmilius",
+        "youtube": "https://www.youtube.com/channel/UCtexkOJwZIoZDN0igQAT7aw"
+    }
+},{
+    "fornavn": "Ole",
+    "efternavn": "Erling",
+    "højde": "lav",
+    "skostørrelse": 56,
+    "godmode": false,
+    "øjenfarve": "flurecerende grøn",
+    "email": "ole@erling.dk"
+}]

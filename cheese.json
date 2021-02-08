@@ -1,0 +1,14 @@
+[{
+    "varenr": 7734,
+    "navn": "Brians Delight",
+    "pris": 116.99,
+    "type": "Mascarpone",
+    "producent": "Arla",
+    "antal": 76,
+    "beskrivelse": {
+        "tekst": "Verdens bedste ost. Så er det sagt.",
+        "smag": "voldstærk",
+        "vægt": 20,
+        "billede": "briansdelight.jpg"
+    }
+}]
