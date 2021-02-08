@@ -73,4 +73,49 @@
                     "vægt": 20,
                     "billede": "briansdelight.jpg"
                 }
+                },{
+                    "varenr": 6,
+                    "navn": "Skineost",
+                    "pris": 19.95,
+                    "type": "Smøreost",
+                    "producent": "BUKO",
+                    "antal": 99,
+                    "andreButikker": ["Føtex", "Bilka", "Netto", "Fakta", "Kvickly"],
+                    "beskrivelse":
+                    {
+                        "tekst": "Dejlig mild smøreost med skinke",
+                        "smag": "Mild",
+                        "vægt": 20,
+                        "billede": "briansdelight.jpg"
+                    }
+                    },{
+                        "varenr": 6,
+                        "navn": "Rejeost",
+                        "pris": 19.95,
+                        "type": "Smøreost",
+                        "producent": "BUKO",
+                        "antal": 99,
+                        "andreButikker": ["Føtex", "Bilka", "Netto", "Fakta", "Kvickly"],
+                        "beskrivelse":
+                        {
+                            "tekst": "Dejlig mild smøreost med rejer",
+                            "smag": "Mild",
+                            "vægt": 20,
+                            "billede": "briansdelight.jpg"
+                        }
+                        },{
+                            "varenr": 6,
+                            "navn": "Champignonost",
+                            "pris": 19.95,
+                            "type": "Smøreost",
+                            "producent": "BUKO",
+                            "antal": 99,
+                            "andreButikker": ["Føtex", "Bilka", "Netto", "Fakta", "Kvickly"],
+                            "beskrivelse":
+                            {
+                                "tekst": "Dejlig mild smøreost med Champignon",
+                                "smag": "Mild",
+                                "vægt": 20,
+                                "billede": "briansdelight.jpg"
+                            }
 }]
